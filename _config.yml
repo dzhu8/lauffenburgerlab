@@ -9,8 +9,8 @@
 title: The Sanders Lab
 email: your-email@domain.com
 description: 
-baseurl: ""
-url: "https://dzhu8.github.io/lauffenburgerlab/"
+baseurl: /lauffenburgerlab
+url: https://dzhu8.github.io
 
 include:
   - .htaccess
