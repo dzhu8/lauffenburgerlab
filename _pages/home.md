@@ -1,37 +1,41 @@
 ---
-title: "Sanders Lab - Home"
+title: "Lauffenburger Lab - Home"
 layout: homelay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "Lauffenburger Lab at MIT."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Sanders Lab at UCSF
+# Welcome to the Lauffenburger lab at MIT!
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/temp_logo.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
-The Sanders Lab aims to identify the etiology of developmental disorders through the discovery of genetic risk factors. Over the past few years there has been rapid progress in identifying the genes that play a role in autism spectrum disorder (ASD). We aim to continue this progress, leverage these findings to build a more complete understanding of ASD, and to extend this approach to other human disorders, including congenital malformations.
+The Lauffenburger laboratory emphasizes experimental and mathematical/computational analysis for the development and validation of predictive models for physiologically-relevant behavior in a wide variety of biological settings and disease contexts. Our work has been recognized as fostering the interface of bioengineering, quantitative cell biology and systems biology. 
 
 
-There are five main areas of research:
+Our current areas of research include:
 
-1. **Gene discovery**: Genomic analysis of DNA using high-throughput sequencing to identify genes associated with human disorders
-2. **Understanding the noncoding genome**: Using whole-genome sequencing to identify the elements of the noncoding genome that contribute to ASD
-3. **The role of SCN2A in human disorders**: SCN2A mutations are one of the most common causes of ASD; we aim to understand how this risk is mediated with the view to developing therapeutics
-4. **Understanding neurodevelopment**: Leveraging functional genomic data to understand physiological brain development and the pathology associated with neuropsychiatric disorders
-5. **Sex bias in ASD**: Identifying genes and gene networks that lead to the preponderance of males diagnosed with ASD
+1. **Finding correlates of protection against infectious disease**: *blurb here*
+2. **Understanding tuberculosis progression at cellular and systemic level**: *blurb here*
+3. **Species translation**: *blurb here*
+4. **Signaling in cancer**: *blurb here*
+5. **Single-cell methods**: Developing new computational tools for representing and leveraging single-cell omics towards understanding the contribution of heterogenous cell states to disease. 
 
 ### Technologies and methods
-The Sanders Lab is primarily a bioinformatic group that uses a wide range of genomic, bioinformatic, and statistical methods including: whole-exome sequencing, whole-genome sequencing, de novo mutation detection, RNA-Seq, and ChIP-Seq.
+We utilize a variety of computational frameworks, including [Principal Component Analysis (PCA)](https://www.nature.com/articles/nmeth.4346.pdf), Partial Least-Squares ([see section 2](https://link.springer.com/content/pdf/10.1007%2F11752790.pdf)), [Canonical Correlation Analysis (CCA)](https://stats.oarc.ucla.edu/r/dae/canonical-correlation-analysis/), [Multi-Omics Factor Analysis (MOFA)](https://www.embopress.org/doi/epdf/10.15252/msb.20178124), and neural networks. Additionally, we work with eukaryotic cells and a range of cellular characterization techniques, such as flow cytometry and Luminex.   
 
 ### Collaborators
-We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
+We work with closely with numerous collaborators, including the [Griffith Lab](https://lgglab.mit.edu/), [Bryson Lab](https://brysonlab.mit.edu/) and [White Lab](https://white-lab.mit.edu/) at MIT, the [Alter Lab](https://ragoninstitute.org/alter/) and [Fortune Lab](https://sites.sph.harvard.edu/fortune-lab/) at Harvard, the [Sassetti Lab](https://www.umassmed.edu/sassettilab/) and [Behar Lab](https://www.umassmed.edu/maps/research-labs/behar/about-us/) at the University of Massachusetts Medical School, and the Flynn lab at the University of Pittsburgh. 
 
-### Joining Sanders Lab
-If you are interested in joining please go to the [recruitment](recruitment) page.
+### Openings
+**Postdoctoral Position Available**:
+A position is available immediately for a postdoctoral associate in the Lauffenburger Laboratory at MIT, with focus on experimental systems biology studies of immune / tissue interactions in inflammatory pathophysiology applications and emphasis on therapeutic translation. Approaches feature omic interrogation of in vivo samples along with complex in vitro culture platforms, across a spectrum of application areas including pathogen infection, cancer immunotherapy, diabetes, and endometriosis. Applicants should send a letter of interest and CV to Doug Lauffenburger at lauffen@mit.edu. 
 
+
+
+<!--
 ### Funding
 We are grateful for funding from the [National Institute of Mental Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/).
 
@@ -40,6 +44,7 @@ We are grateful for funding from the [National Institute of Mental Health](https
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ASF.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BBRF.png" style="width: 200px">
 </figure>
+-->
 
 
 
