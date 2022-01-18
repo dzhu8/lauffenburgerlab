@@ -10,6 +10,8 @@ permalink: /research/
 
 ---
 
+Lorem Ipsum. 
+
 <!--
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
