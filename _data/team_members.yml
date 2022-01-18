@@ -39,9 +39,15 @@
   info: Biological Engineering
   url: kristapullen
   group: 1
-  
-- name: Erin Tevonian
+
+- name: Daniel Stein
   photo: default.jpg
+  info: Biological Engineering
+  url: danielstein
+  group: 1
+
+- name: Erin Tevonian
+  photo: erintevonian.jpg
   info: Biological Engineering
   url: erintevonian
   group: 1
@@ -136,6 +142,11 @@
   year: 2016-2020
   current: Assistant Professor of Biomedical Engineering, Purdue University
   extlink: https://engineering.purdue.edu/BME/Academics/Graduate/CurrentResearchOpportunities/Brubaker
+  
+- name: Molly Carroll
+  info: Postdoctoral Associate
+  group: 8
+  year: 2018-2020
   
 - name: Lauren Stopfer
   info: PhD Student

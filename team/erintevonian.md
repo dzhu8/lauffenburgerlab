@@ -7,7 +7,7 @@ email: erintevo@mit.edu
 twitter: 
 github:
 scholar: 
-photo: erintevonian.jpg 
+photo: default.jpg 
 
 ---
 
