@@ -10,6 +10,7 @@ permalink: /data/
 
 ---
 
+<!--
 ## Automated 3D Refinement of the Allen Developing Mouse Brain Atlas
 
 <div class="youtube center"><h4>Original</h4>
@@ -82,7 +83,7 @@ permalink: /data/
 
 ### E15.5 Atlas
 
-<!-- start later since the body is cropped in the refined atlas -->
+<!-- start later since the body is cropped in the refined atlas
 <div class="youtube">
 <iframe width="450" height="657" src="https://player.vimeo.com/video/402063028?autoplay=1&muted=1&#t=68s" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
@@ -116,3 +117,4 @@ permalink: /data/
 </div>
 
 <div class="clear"></div>
+-->

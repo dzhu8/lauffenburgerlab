@@ -1,13 +1,13 @@
 ---
-title: "Sanders Lab - Team"
+title: "Lauffenburger Lab - Team"
 layout: gridlay
-excerpt: "Sanders Lab: Team members"
+excerpt: "Lauffenburger Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Team Members
-(Please click the name below for the lab memeber's profile)
+(Please click the name below for the lab member's profile)
 
 
 ---
@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## Trainee
+## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## Staff
+## Research Professionals
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -111,7 +111,7 @@ permalink: /team/
 
 ---
 
-## PsychCore Genomics Core
+## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -144,6 +144,7 @@ permalink: /team/
 
 ---
 
+<!--
 ## Visiting Scholars
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -173,7 +174,7 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ---
 
@@ -194,7 +195,7 @@ permalink: /team/
 ---
 
 ## Administrative Support
-Please contact our lab manager, <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a>.
+Please contact our administrative assistant, <a href="mailto:lindsayk@mit.edu">Lindsay King</a>.
 
 
 

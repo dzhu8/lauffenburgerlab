@@ -1,174 +1,140 @@
-- name: Stephan Sanders
-  photo: stephansanders.jpg
-  info: Associate Professor
-  url: stephansanders
+- name: Doug Lauffenburger, PhD
+  photo: douglauffenburger.jpg
+  info: Ford Professor of Bioengineering, 2009-
+  url: douglauffenburger
   group: 0
   
-- name: Shan Dong
-  photo: shandong.jpg
-  info: Postdoctoral Scholar
-  url: shandong
+- name: Anisha Datta
+  photo: anishadatta.jpg
+  info: Biological Engineering
+  url: anishadatta
   group: 1
 
-- name: Brooke Sheppard
-  photo: brookesheppard.jpg
-  info: Postdoctoral Scholar
-  url: brookesheppard
+- name: Christine Davis
+  photo: christinedavis.jpg
+  info: Biological Engineering
+  url: christinedavis
   group: 1
   
-- name: David Young
-  photo: davidyoung.jpg
-  info: Postdoctoral Scholar
-  url: davidyoung
+- name: Maddie Dery
+  photo: maddiedery.jpg
+  info: Chemical Engineering
+  url: maddiedery
   group: 1
 
-- name: Nick Page
-  photo: nickpage.jpg
-  info: Graduate Student
-  url: nickpage
+- name: Diana Gong
+  photo: dianagong.jpg
+  info: Biological Engineering
+  url: dianagong
   group: 1
 
-- name: Clif Duhn
-  photo: clifduhn.jpg
-  info: Laboratory Manager
-  url: clifduhn
-  group: 2
+- name: Meelim Lee
+  photo: meelimlee.jpg
+  info: Biological Engineering
+  url: meelimlee
+  group: 1
 
-- name: Alessandra Aguilar
-  photo: alessandraaguilar.jpg
-  info: Staff Research Associate
-  url: alessandraaguilar
-  group: 2
+- name: Krista Pullen
+  photo: kristapullen.jpg
+  info: Biological Engineering
+  url: kristapullen
+  group: 1
 
-- name: Aileen Poquiz
-  photo: aileenpoquiz.jpg
-  info: Administrative Officer
-  url: aileenpoquiz
-  group: 2
+- name: Daniel Zhu
+  photo: danielzhu.jpg
+  info: Biological Engineering
+  url: danielzhu
+  group: 1
       
-- name: Michael Gilson
-  photo: michaelgilson.jpg
-  info: Bioinformatics Programmer III
-  url: michaelgilson
-  group: 3
+- name: Tomer Zohar
+  photo: tomerzohar.jpg
+  info: Biological Engineering
+  url: tomerzohar
+  group: 1
 
-- name: Lindsay Liang
+- name: Lauren Baugh
   photo: lindsayliang.jpg
-  info: Bioinformatics Programmer II
-  url: lindsayliang
+  info: Postdoctoral Associate
+  url: laurenbaugh
+  group: 2
+
+- name: Yixiang Deng
+  photo: yixiangdeng.jpg
+  info: Postdoctoral Associate
+  url: yixiangdeng
+  group: 2
+
+- name: Brian Joughin
+  photo: brianjoughin.jpg
+  info: Koch Institute Research Scientist
+  url: brianjoughin
+  group: 2
+
+- name: Wonyeong Jung
+  photo: default.jpg
+  info: Postdoctoral Associate
+  url: wonyeongjung
+  group: 2
+
+- name: Avlant Nilsson
+  photo: avlantnilsson.jpg
+  info: Postdoctoral Associate
+  url: avlantnilsson
+  group: 2
+  
+- name: Shu Wang
+  photo: shuwang.jpg
+  info: Postdoctoral Associate
+  url: shuwang
+  group: 2
+
+- name: Thomas Donaghey
+  photo: tomdonaghey.jpg
+  info: Lab Manager
+  url: tomdonaghey
   group: 3
 
-- name: Aparna Kumar
-  photo: aparnakumar.jpg
-  info: Undergraduate Research Volunteer
-  url: aparnakumar
-  group: 4
-
-- name: Mai Nojima
-  photo: mainojima.jpg
-  info: Undergraduate Research Volunteer
-  url: mainojima
-  group: 8
-  year: 2017-2020
-  current: Medical Student at Kaiser Permanente Bernard J. Tyson School of Medicine
-
-- name: Donna Werling
-  photo: donnawerling.jpg
-  info: Postdoctoral Scholar
-  url: donnawerling
-  group: 8
-  year: 2015-2019
-  current: Assistant Professor of Genetics, University of Wisconsin-Madison
-  extlink: https://werling.genetics.wisc.edu/
+- name: Lindsay King
+  photo: default.jpg
+  info: Administrative Assistant
+  url: lindsayking
+  group: 3
   
-- name: Joon An
-  photo: joonan.jpg
-  info: Postdoctoral Scholar
-  url: joonan
-  group: 8
-  year: 2015-2019
-  current: Assistant Professor, School of Biosystem and Biomedical Science, Korea University
-  extlink: https://joonanlab.github.io/
+- name: Aran Parillo
+  photo: aranparillo.jpg
+  info: Information Systems Administrator
+  url: shuwang
+  group: 3
 
-- name: Grace Schwartz
-  photo: graceschwartz.jpg
-  info: Staff Research Associate
-  url: graceschwartz
+- name: Chuangqi Wang
+  photo: chuangqiwang.jpg
+  info: Postdoctoral Associate
+  url: chuangqiwang
   group: 8
-  year: 2016-2019
-  current: Research Technologist at Ann and Robert Lurie Children’s Hospital of Chicago
-
-- name: Sindy Law
-  photo: sindylaw.jpg
-  info: Database Architect
-  url: sindylaw
-  group: 8
-  year: 2015-2019
-  current: Institutional Research Analyst, UCSF School of Dentistry
-
-- name: Claudia Dastmalchi
-  photo: claudiaddastmalchi.jpg
-  info: Bioinformatics Programmer
-  url: claudiaddastmalchi
-  group: 8
-  year: 2017-2019
-  current: Bioinformatics Software Engineer at Ambry Genetics
-
-- name: Deniz Yuruk
-  photo: denizyuruk.jpg
-  info: Visiting Scholar
-  url: denizyuruk
-  group: 8
-  year: 2017-2018
+  year: 2019-2021
+  current: ... University of Colorado School of Medicine? 
+  extlink: https://chuangqiwang.com/
   
-- name: Louw Smith
-  info: Data Operations Manager
-  url: louwsmith
+- name: Carolin Loos
+  info: Postdoctoral Associate
+  url: carolinloos
   group: 8
-  year: 2015-2016
-  current: Instructor, Brandeis University
-  extlink: https://www.brandeis.edu/facultyguide/person.html?emplid=decdc7873f5dc5d7658c2fbabd70047fd7d9cab0
+  year: 2019-2021
 
-- name: Eddie Gao
-  info: Summer Intern
-  url: eddiegao
+- name: Douglas Brubaker
+  info: Postdoctoral Associate
   group: 8
-  year: 2017
-  current: Undergraduate, UC Berkeley
-
-- name: Alexandria Alpy
-  info: Summer Intern
-  url: alexandriaalpy
-  group: 8
-  year: 2017
-  current: Ohio State University
-
-- name: Flora Zhao
-  info: High School Research Volunteer
-  url: florazhao
-  group: 8
-  year: 2017
-  current: 
-
-- name: Jason Zhao
-  info: High School Research Volunteer
-  url: jasonzhao
-  group: 8
-  year: 2017
-  current: 
-
-- name: Carmen Sandoval
-  info: Neuroscience Rotation Student
-  url: carmensandoval
-  group: 8
-  year: 2018
-  current: Neuroscience Graduate Program, UCSF
-
-- name: Immanuel Zion
-  info: Summer Intern
-  url: immanuelzion
-  group: 8
-  year: 2018
-  current: Bard College
+  year: 2016-2020
+  current: Assistant Professor of Biomedical Engineering, Purdue University
+  extlink: https://engineering.purdue.edu/BME/Academics/Graduate/CurrentResearchOpportunities/Brubaker
   
+- name: Lauren Stopfer
+  info: PhD Student
+  group: 8
+  year: 2016-2021
  
+- name: Seung-Hyun (Bri) Ko
+  info: Undergraduate Student
+  group: 8
+  year: 2017-2021
+  current: PhD Student in the department of Bioengineering at the University of Pennsylvania
