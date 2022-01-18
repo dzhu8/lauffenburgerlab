@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Code"
+title: "Lauffenburger Lab - Code"
 layout: textlay
-excerpt: "Sanders Lab -- Code."
+excerpt: "Lauffenburger Lab -- Code."
 sitemap: false
 permalink: /code/
 ---
@@ -10,7 +10,9 @@ permalink: /code/
 # Code
 
 ---
+Lorem Ipsum.
 
+<!--
 ## [PsychCore Genomics Pipeline](https://github.com/sanderslab/psychcore-compute-platform)
 
 
@@ -96,5 +98,5 @@ This perl script will install a series of directories and clues that teaches bas
 - <a href="https://www.dropbox.com/s/xw5c1ra4td9k966/Unix_basics.pdf?dl=0"><i class='fa fa-book'></i> Manual</a>
 
 ---
-
+-->
 

@@ -1,5 +1,5 @@
 ---
-title: "Sanders Lab - Contact"
+title: "Lauffenburger Lab - Contact"
 layout: textlay
 excerpt: "Contact."
 sitemap: false
@@ -7,7 +7,9 @@ permalink: /contact/
 ---
 
 # Contact
+Lorem Ipsum.
 
+<!--
 ## Lab Location
 
 Sanders Lab is in Rock Hall of the UCSF Mission Bay Campus ([Google Map](https://goo.gl/maps/wLQbKoAUSTS2)):
@@ -39,4 +41,4 @@ Several UCSF shuttle lines stop on 4th Street outside Rock Hall. Shuttles arrive
 - The UCSF Shuttle map can be found [here](https://campuslifeservices.ucsf.edu/upload/transportation/files/UCSF_Shuttle_Map_8.5x11.pdf)
 
 - The Next Shuttle can be found [here](https://ucsf.tripshot.com/)
-
+-->
