@@ -1,20 +1,20 @@
 ---
 layout: member
-title: Brooke Sheppard
-position: Postdoctoral Scholar
-handle: brookesheppard
-email: 
-twitter:
+title: Diana Gong
+position: PhD Student
+handle: dianagong
+email: dgong@mit.edu
+twitter: dianagong9
 github:
-scholar: d3w5qCkAAAAJ
-photo: brookesheppard.jpg
-ucsf: brooke.sheppard
+scholar: 
+photo: dianagong.jpg 
 ---
 
 ### Overview
-Brooke is an epidemiologist whose research focuses on identifying and characterizing the role of genetics in neurodevelopmental disorders.  Her graduate work involved investigating common variants associated with phenotypic heterogeneity and patterns of comorbidity in autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD).  As a postdoctoral researcher at UCSF, she is contributing to ASD gene discovery efforts with the use of rare inherited and de novo variants identified from genomic sequencing data.  
+Co-advised by Bryan Bryson
+
+I am interested in understanding the heterogeneity of response of different cell types and different patients to inflammatory and infectious disease. Currently, I am analyzing how different mutations impact the immune environment in colorectal cancer using single-cell RNA sequencing. Moving forward, I will also be studying correlates of protection in tuberculosis by using a multi-omics approach and developing computational models.
 
 ### Education
- - PhD, Epidemiology,  Johns Hopkins University
- - ScM, Epidemiology, Johns Hopkins University
- - BA, Psychology, San Francisco State University
+
+### Publications and Presentations

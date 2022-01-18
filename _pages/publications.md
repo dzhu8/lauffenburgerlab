@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Publications"
+title: "Lauffenburger Lab - Publications"
 layout: gridlay
-excerpt: "Sanders Lab -- Publications."
+excerpt: "Lauffenburger Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,6 +11,9 @@ permalink: /publications/
 
 ---
 
+Lorem Ipsum. 
+
+<!--
 ## Featured
 
 {% assign number_printed = 0 %}
@@ -56,4 +59,5 @@ For a full list, please go to <a class="regtext" href="https://scholar.google.co
 <br><br><br>
 
 </div>
+-->
 

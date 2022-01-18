@@ -39,6 +39,12 @@
   info: Biological Engineering
   url: kristapullen
   group: 1
+  
+- name: Erin Tevonian
+  photo: default.jpg
+  info: Biological Engineering
+  url: erintevonian
+  group: 1
 
 - name: Daniel Zhu
   photo: danielzhu.jpg
@@ -53,7 +59,7 @@
   group: 1
 
 - name: Lauren Baugh
-  photo: lindsayliang.jpg
+  photo: laurenbaugh.jpg
   info: Postdoctoral Associate
   url: laurenbaugh
   group: 2
@@ -62,6 +68,12 @@
   photo: yixiangdeng.jpg
   info: Postdoctoral Associate
   url: yixiangdeng
+  group: 2
+  
+- name: Jeremy Huang
+  photo: jeremyhuang.jpg
+  info: Postdoctoral Associate
+  url: jeremyhuang
   group: 2
 
 - name: Brian Joughin
@@ -91,19 +103,16 @@
 - name: Thomas Donaghey
   photo: tomdonaghey.jpg
   info: Lab Manager
-  url: tomdonaghey
   group: 3
 
 - name: Lindsay King
   photo: default.jpg
   info: Administrative Assistant
-  url: lindsayking
   group: 3
   
 - name: Aran Parillo
   photo: aranparillo.jpg
   info: Information Systems Administrator
-  url: shuwang
   group: 3
 
 - name: Chuangqi Wang

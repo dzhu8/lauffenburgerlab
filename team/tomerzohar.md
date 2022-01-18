@@ -1,18 +1,20 @@
 ---
 layout: member
-title: Deniz Yuruk
-position: Visiting Scholar
-handle: denizyuruk
-email: 
-twitter:
+title: Tomer Zohar
+position: PhD Student
+handle: tomerzohar
+email: tzohar@mit.edu
+twitter: tzohar2
 github:
-scholar: 
-photo: denizyuruk.jpg
-ucsf: 
+scholar: UIU70nwAAAAJ
+photo: tomerzohar.jpg 
 ---
 
 ### Overview
-Deniz is a 4th year medical student who aims to be a Psychiatrist and researcher. She is currently building cell detection truth sets to help Dr. Young to build an automated pipeline for volumetric analysis of brains. She is also involved in research in the Psychiatry departments at Koc University and Erasmus University. Her research focuses on Autism Spectrum Disorder (ASD), disruptive mood dysregulation disorder (DMDD), and dissociative disorder. In her free time she is organizing activities and projects in her school’s Child and Adolescent Life and Health student club.
+Co-advised by Galit Alter
+
+I am interested in how immunological systems evolve during responses to disease and other perturbations, and what determines differences in outcomes. Specifically, I research discrepancies in innate immunity and antibody function between different patient/population cohorts at different time points using a myriad of the high-through assays and computational analyses.
 
 ### Education
-- MD, Koc University School of Medicine (Expected 2020)
+
+### Publications and Presentations

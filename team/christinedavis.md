@@ -1,20 +1,18 @@
 ---
 layout: member
-title: Alessandra Aguilar
-position: Staff Research Associate
-handle: alessandraaguilar
-email: 
-twitter:
+title: Christine Davis
+position: PhD Student
+handle: christinedavis
+email: daviscld@mit.edu
+twitter: christine8davis
 github:
 scholar: 
-linkedin: 
-photo: alessandraaguilar.jpg
-ucsf: 
+photo: christinedavis.jpg 
 ---
 
 ### Overview
-Alessandra completed a dual major at the University of California, Berkeley in Chemical Biology and Integrative Biology. During her undergraduate research, she worked on enhancing NMR sensitivity and portability through implementation of diamond hyperpolarization. Alessandra aims to begin a medical career and continue research in microbiology and therapeutics. In the Sanders Lab, Alessandra focuses on the development and testing of antisense oligonucleotides (ASOs) to alter aberrant splicing in neurodevelopmental disorder-associated genes. She is interested in ASO optimization, discovery of cryptic splicing candidates, and enjoys collaborating with other groups to process samples for downstream data collection.
+My research interest is in using high-throughput data generation methods, large datasets, and computational models to investigate infectious disease impact, progression, and biomarkers. I am particularly interested in intrinsic variation in immune response within populations in addition to differences between disease severities. Currently, I am researching immune response and mechanisms of protection for tuberculosis.
 
 ### Education
-- Bachelor of Science, Chemical Biology, University of California, Berkeley
-- Bachelor of Arts, Integrative Biology, University of California, Berkeley
+
+### Publications and Presentations

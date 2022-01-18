@@ -8,7 +8,7 @@ twitter:
 github: Lauffenburger-Lab
 scholar: 
 photo: douglauffenburger.jpg
-ucsf: stephan.sanders
+
 ---
 
 ### Overview
@@ -40,5 +40,5 @@ Dr. Sanders is the Director of the Psychiatry Department Bioinformatics Core (Ps
 - Visiting Scientist, Applied Mathematics Institute, University of Heidelberg (1980)
 
 ### Education
-- PhD, University of Minnesota (1979)
+- PhD
 - Bachelor of Science in Chemical Engineering, University of Illinois (1975)
