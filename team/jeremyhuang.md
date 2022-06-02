@@ -10,9 +10,11 @@ scholar: B0L7HwkAAAAJ
 photo: jeremyhuang.jpg 
 ---
 
-### Overview
-Co-advised by Linda Griffith. 
+### Research Overview
 
 ### Education
 
 ### Publications and Presentations
+
+### Other Information
+Co-advised by Linda Griffith. 

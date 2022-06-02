@@ -22,5 +22,8 @@ BS, Bioengineering, University of Illinois Urbana-Champaign
 ### Fellowships
 NSF Graduate Research Fellow
 
+### Organizations
+MIT Biological Engineering Graduate Student Board
+
 ### Other Information
 Co-advised by Linda Griffith.

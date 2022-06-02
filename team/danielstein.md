@@ -12,7 +12,7 @@ photo: default.jpg
 
 ### Overview
 
-
 ### Education
+B.S. Biological Engineering, MIT
 
 ### Publications and Presentations

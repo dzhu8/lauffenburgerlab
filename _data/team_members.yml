@@ -64,10 +64,10 @@
   url: tomerzohar
   group: 1
 
-- name: Lauren Baugh
-  photo: laurenbaugh.jpg
+- name: Deniz Cizmeci
+  photo: denizcizmeci.jpg
   info: Postdoctoral Associate
-  url: laurenbaugh
+  url: denizcizmeci
   group: 2
 
 - name: Yixiang Deng
@@ -129,6 +129,12 @@
   year: 2019-2021
   current: ... University of Colorado School of Medicine? 
   extlink: https://chuangqiwang.com/
+
+- name: Lauren Baugh
+  info: Postdoctoral Associate
+  url: laurenbaugh
+  group: 8
+  year: 2019-2021
   
 - name: Carolin Loos
   info: Postdoctoral Associate
