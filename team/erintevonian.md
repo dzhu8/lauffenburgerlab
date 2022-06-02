@@ -7,11 +7,13 @@ email: erintevo@mit.edu
 twitter: 
 github:
 scholar: 
-photo: default.jpg 
+photo: erintevonian.jpg 
 
 ---
 
-### Overview
+### Research Overview
+Engineered liver models for the characterization of immune-tissue interactions in hepatic insulin resistance
+
 Hepatic insulin resistance is a major feature of the progression of metabolic disorders, including nonalcoholic fatty liver disease and type 2 diabetes. My work focuses on developing an improved in vitro hepatic insulin resistance model incorporating primary human 3D cell culture, physiologically relevant media conditions, and tissue-immune crosstalk. By applying systems biology approaches integrating multi-omics data generated with this insulin resistance model, I aim to better understand the interplay between molecular and cellular cues driving disease. 
 
 ### Education
