@@ -2,7 +2,7 @@
 layout: member
 title: Nikos Meimetis
 position: PhD Student
-handle: nmeimetis
+handle: nikosmeimetis
 email: meimetis@mit.edu
 twitter: 
 github: 
