@@ -6,11 +6,15 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research Highlights
+# Our Primary Research Foci
 
 ---
 
-Lorem Ipsum. 
+## Inter-species translation of clinical insights
+
+## Computational analysis of systems serology data to characterize the humoral immune system
+
+## TAM receptors in cancer and tuberculosis 
 
 <!--
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}

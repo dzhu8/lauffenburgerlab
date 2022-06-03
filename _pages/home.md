@@ -9,7 +9,7 @@ permalink: /
 # Welcome to the Lauffenburger lab at MIT!
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/logo.png){: style="width: 250px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logo.png){: style="width: 300px; float: left;margin-right: 20px; border: 10px"}
 
 
 The Lauffenburger laboratory emphasizes experimental and mathematical/computational analysis for the development and validation of predictive models for physiologically-relevant behavior in a wide variety of biological settings and disease contexts. Our work has been recognized as fostering the interface of bioengineering, quantitative cell biology and systems biology. 

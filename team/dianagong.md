@@ -13,7 +13,7 @@ photo: dianagong.jpg
 ### Research Overview
 Impact of TAM receptors on Mycobacterium tuberculosis infection of macrophages
 
-I am interested in understanding the heterogeneity of response of different cell types and different patients to inflammatory and infectious disease. Currently, I am analyzing how different mutations impact the immune environment in colorectal cancer using single-cell RNA sequencing. Moving forward, I will also be studying correlates of protection in tuberculosis by using a multi-omics approach and developing computational models.
+I am interested in understanding the heterogeneity of the immune response in Mycobacterium tuberculosis infection and the connection between the immune response and disease outcomes. Currently, I am investigating immune correlates of protection in tuberculosis in a genetically diverse cohort of mice using a multivariate computational approach. I am also studying how different forms of macrophage death and the TAM (Tyro3, Axl, Mertk) family of receptors in tuberculosis differentially lead to inflammation patterns and bacterial control. I also have broader interests in teaching and mentoring and helping to develop those skills in my peers.
 
 ### Education
 B.S. Bioengineering, Stanford University
