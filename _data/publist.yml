@@ -1,99 +1,89 @@
-- title: "Constructing and optimizing 3D atlases from 2D data with application to the developing mouse brain"
-  image: Young2021.png
+- title: "Artificial neural networks enable genome-scale simulations of intracellular signaling"
+  image: Nilsson2022.jpg
   description: 
   authors: 
   link:
-    url: https://elifesciences.org/articles/61408
-    display:  Young et al. eLife (2021)
+    url: https://www.nature.com/articles/s41467-022-30684-y
+    display:  Nilsson and Peters et al. Nature Communications (2022)
   highlight: 1
   news2: 
 
-- title: "Whole‐Brain Image Analysis and Anatomical Atlas 3D Generation Using MagellanMapper"
-  image: Young2020.jpg
+- title: "Defining the determinants of protection against SARS-CoV-2 infection and viral control in a dose-down Ad26.CoV2.S vaccine study in nonhuman primates"
+  image: Zhu2022.jpg
   description: 
   authors: 
   link:
-    url: https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpns.104
-    display: Young et al. Current Protocols in Neuroscience (2020)
+    url: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001609
+    display: Zhu and Gorman et al. PLOS Biology (2022)
   highlight: 1
   news2: 
 
-- title: "Genome-wide de novo risk score implicates promoter variation in autism spectrum disorder"
-  image: An2018.gif
+- title: "Upper and lower respiratory tract correlates of protection against respiratory syncytial virus following vaccination of nonhuman primates"
+  image: Zohar2022.jpg
   description: 
   authors: 
   link:
-    url: https://science.sciencemag.org/content/362/6420/eaat6576.long
-    display:  An et al. Science (2018)
+    url: https://www.sciencedirect.com/science/article/pii/S1931312821005126?via%3Dihub
+    display:  Zohar et al. Cell Host and Microbe (2022)
   highlight: 1
   news2: 
 
-- title: "An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder"
-  image: Werling2018.png
+- title: "Selective functional antibody transfer into the breastmilk after SARS-CoV-2 infection"
+  image: Pullen2021.jpg
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/s41588-018-0107-y
-    display:  Werling et al. Nature Genetics (2018)
+    url: https://www.sciencedirect.com/science/article/pii/S2211124721014364
+    display:  Pullen et al. Cell Reports (2021)
   highlight: 1
   news2: 
 
-- title: "Opposing Effects on NaV1.2 Function Underlie Differences Between SCN2A Variants Observed in Individuals With Autism Spectrum Disorder or Infantile Seizures"
-  image: BenShalom2017.jpg
+- title: "Translatable pathways classification (TransPath-C) for inferring processes germane to human biology from animal studies data: example application in neurobiology"
+  image: Carroll2021.jpeg
   description: 
   authors: 
   link:
-    url: https://www.biologicalpsychiatryjournal.com/article/S0006-3223(17)30041-0/fulltext
-    display:  Ben-Shalom et al. Biological Psychiatry (2017)
+    url: https://academic.oup.com/ib/article/13/10/237/6440134?login=false
+    display:  Carroll et al. Integrative Biology (2021)
   highlight: 1
   news2: 
 
-- title: "Insights into Autism Spectrum Disorder Genomic Architecture and Biology from 71 Risk Loci"
-  image: Sanders2015.png
+- title: "Computational interspecies translation between Alzheimer’s Disease mouse models and human subjects identifies innate immune complement, TYROBP, and TAM receptor agonist signatures, distinct from influences of aging"
+  image: Lee2021.jpg
   description: 
   authors: 
   link:
-    url: https://www.ncbi.nlm.nih.gov/pubmed/26402605
-    display:  Sanders et al. Neuron (2015)
+    url: https://www.frontiersin.org/articles/10.3389/fnins.2021.727784/full
+    display:  Lee et al. Frontiers in Neuroscience (2021)
   highlight: 1
   news2: 
 
-- title: "Synaptic, transcriptional and chromatin genes disrupted in autism"
-  image: DeRubeis2014.png
+- title: "Compromised SARS-CoV-2-specific placental antibody transfer"
+  image: PullenCell2021.jpg
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/nature13772
-    display:  De Rubeis et al. Nature (2014)
+    url: https://www.sciencedirect.com/science/article/pii/S0092867420317499
+    display:  Atyeo and Pullen et al. Cell (2021)
   highlight: 1
   news2: 
 
-- title: "The contribution of de novo coding mutations to autism spectrum disorder"
-  image: Iossifov2014.png
+- title: "Compromised humoral functional evolution tracks with SARS-CoV-2 mortality"
+  image: Zohar2021.jpg
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/nature13908
-    display:  Iossifov et al. Nature (2014)
+    url: https://www.sciencedirect.com/science/article/pii/S0092867420314598
+    display:  Zohar and Loos et al. Cell (2021)
   highlight: 1
   news2: 
 
-- title: "De novo mutations revealed by whole-exome sequencing are strongly associated with autism"
-  image: Sanders2012.png
+- title: "COVID-19 mRNA vaccines drive differential antibody Fc-functional profiles in pregnant, lactating, and nonpregnant women"
+  image: Atyeo2021.png
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/nature10945
-    display:  Sanders et al. Nature (2012)
-  highlight: 1
-  news2: 
-
-- title: "Multiple Recurrent De Novo CNVs, Including Duplications of the 7q11.23 Williams Syndrome Region, Are Strongly Associated with Autism"
-  image: Sanders2011.png
-  description: 
-  authors: 
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0896627311003746
-    display:  Sanders et al. Neuron (2011)
+    url: https://www.science.org/doi/full/10.1126/scitranslmed.abi8631
+    display:  Atyeo and Davis et al. Science Translational Medicine (2021)
   highlight: 1
   news2: 
