@@ -27,6 +27,7 @@ B.S. Bioengineering, Stanford University
 
 ### Fellowships
 NSF Graduate Research Fellow
+
 TLL Teaching Development Fellow
 
 ### Other Information

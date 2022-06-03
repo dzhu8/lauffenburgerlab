@@ -10,16 +10,21 @@ permalink: /contact/
 
 ## Lab Location
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.pdf" style="width: 600px">
 
 Office: 
 Department of Biological Engineering
+
 Massachusetts Institute of Technology
+
 Room: 16-429
+
 Cambridge MA 02139 USA
 
 Phone: (617) 252-1629
+
 Fax: (617) 258-0204
+
 Email: lauffen@mit.edu
 
 
