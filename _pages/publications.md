@@ -11,7 +11,6 @@ permalink: /publications/
 
 ---
 
-<!--
 ## Featured Publications from Lab Members and Alumni!
 
 {% assign number_printed = 0 %}
@@ -57,5 +56,4 @@ For a full list, please go to <a class="regtext" href="https://pubmed.ncbi.nlm.n
 <br><br><br>
 
 </div>
--->
 
