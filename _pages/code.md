@@ -12,6 +12,12 @@ permalink: /code/
 ---
 Lorem Ipsum.
 
+## [Large-scale knowledge-EMBedded Artificial Signaling-networks (LEMBAS)](https://github.com/Lauffenburger-Lab/LEMBAS)
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/lembas.png" style="width: 300px"> 
+
+Mammalian cells adapt their functional state in response to external signals in form of ligands that bind receptors on the cell-surface. Mechanistically, this involves signal-processing through a complex network of molecular interactions that govern transcription factor activity patterns. Computer simulations of the information flow through this network could help predict cellular responses in health and disease. Here we develop a recurrent neural network framework constrained by prior knowledge of the signaling network with ligand-concentrations as input and transcription factor -activity as output. Applied to synthetic data, it predicts unseen test-data (Pearson correlation r=0.98) and the effects of gene knockouts (r=0.8). We stimulate macrophages with 59 different ligands, with and without addition of lipopolysaccharide, and collect transcriptomics data. The framework predicts this data under cross-validation (r=0.8) and knockout simulations suggest a role for RIPK1 in modulating the lipopolysaccharide response. This work demonstrates the feasibility of genome-scale simulations of intracellular signaling.
+
 <!--
 ## [PsychCore Genomics Pipeline](https://github.com/sanderslab/psychcore-compute-platform)
 
